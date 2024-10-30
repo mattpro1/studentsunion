@@ -109,6 +109,12 @@ main {
     background:url("../images/aboutus.webp") no-repeat center center/cover;
     position: relative;
 }
+#events {
+    height:800px;
+    width: 100%;
+    background:url("../images/events1b.png") no-repeat center center/cover;
+    position: relative;
+}
 
 #cover-text {
 /* Final rgba value sets the opacity - so its semi-transparent */
